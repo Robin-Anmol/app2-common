@@ -23,3 +23,6 @@ export * from "./events/Listener";
  */
 
 export * from "./events/Publisher";
+
+// event types order status
+export * from "./events/types/order.status";
