@@ -11,8 +11,4 @@ export enum OrderStatus {
 
   //   the order has successfully been reserved and the user has provided a payment successfully
   Completed = "completed",
-
-  // soft delete the order
-
-  Deleted = "deleted",
 }
