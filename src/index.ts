@@ -9,7 +9,7 @@ export * from "./middlewares/errors.middleware";
 export * from "./middlewares/validate-request";
 
 export * from "./events/tickets";
-
+export * from "./events/expiration";
 export * from "./events/subject";
 
 /**
