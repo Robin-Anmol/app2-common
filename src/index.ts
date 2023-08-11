@@ -28,3 +28,4 @@ export * from "./events/Publisher";
 export * from "./events/types/order.status";
 
 export * from "./events/orders";
+export * from "./events/payment";
